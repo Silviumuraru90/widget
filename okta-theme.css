@@ -24,7 +24,7 @@
 
 #okta-sign-in .link {
   /* -- Fonts and Text Colors: links -- */
-  color: #44160b;
+  color: #777;
 }
 
 #okta-sign-in .link:link, #okta-sign-in .link:visited, #okta-sign-in .link:hover, #okta-sign-in .link:active {
