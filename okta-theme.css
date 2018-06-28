@@ -479,13 +479,13 @@
 
 #okta-sign-in .button:hover, #okta-sign-in .button:focus, #okta-sign-in .button:active, #okta-sign-in .button:focus {
   /* -- Buttons' Colors -- */
-  background-color: white;
-  background: -o-linear-gradient(top, white 0%, #fcfcfc 100%);
+  background-color: yellow;
+  background: -o-linear-gradient(top, yellow 0%, #fcfcfc 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, white 0%, #fcfcfc 100%);
+  background: -ms-linear-gradient(top, yellow 0%, #fcfcfc 100%);
   /* IE10+ */
-  background-image: -webkit-linear-gradient(white, #fcfcfc);
-  background-image: linear-gradient(white, #fcfcfc);
+  background-image: -webkit-linear-gradient(yellow, #fcfcfc);
+  background-image: linear-gradient(yellow, #fcfcfc);
   border-color: #ff0000;
   border-bottom-color: #ff0000;
   text-decoration: none;
@@ -636,25 +636,25 @@
   /* -- Buttons' Colors -- */
   color: #5e5e5e;
   background-color: #fff;
-  background: -o-linear-gradient(top, #fff 0%, white 100%);
+  background: -o-linear-gradient(top, #fff 0%, yellow 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #fff 0%, white 100%);
+  background: -ms-linear-gradient(top, #fff 0%, yellow 100%);
   /* IE10+ */
-  background: -webkit-linear-gradient(#fff, white);
-  background: linear-gradient(#fff, white);
+  background: -webkit-linear-gradient(#fff, yellow);
+  background: linear-gradient(#fff, yellow);
   border-color: #ff0000;
   border-bottom-color: #ff0000;
 }
 
 #okta-sign-in .icon-button:hover, #okta-sign-in .icon-button:focus, #okta-sign-in .icon-button:active, #okta-sign-in .icon-button:focus {
   /* -- Buttons' Colors -- */
-  background-color: white;
-  background: -o-linear-gradient(top, white 0%, white 100%);
+  background-color: yellow;
+  background: -o-linear-gradient(top, yellow 0%, yellow 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, white 0%, white 100%);
+  background: -ms-linear-gradient(top, yellow 0%,yellow 100%);
   /* IE10+ */
-  background-image: -webkit-linear-gradient(white, white);
-  background-image: linear-gradient(white, white);
+  background-image: -webkit-linear-gradient(yellow, yellow);
+  background-image: linear-gradient(yellow, yellow);
   border-color: #ff0000;
   border-bottom-color: #ff0000;
   text-decoration: none;
