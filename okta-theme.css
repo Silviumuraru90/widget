@@ -50,8 +50,8 @@
 
 #okta-sign-in.main-container {
   /* -- Main Background and Border Colors -- */
-  background-color: #000000;
-  border-color: #FFF000 #FFF000 #d8d8d8;
+  background-color: #353333;
+  border-color: #FFF000 #FFF000 #FFF000;
   box-shadow: 0 2px 0 rgba(175, 175, 175, 0.12);
 }
 
