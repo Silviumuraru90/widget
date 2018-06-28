@@ -19,7 +19,7 @@
 #okta-sign-in .okta-form-subtitle,
 #okta-sign-in .okta-form-label {
   /* -- Fonts and Text Colors -- */
-  color: #777000;
+  color: #777;
 }
 
 #okta-sign-in .link {
@@ -29,7 +29,7 @@
 
 #okta-sign-in .link:link, #okta-sign-in .link:visited, #okta-sign-in .link:hover, #okta-sign-in .link:active {
   /* -- Fonts and Text Colors: links -- */
-  color: #777000;
+  color: #777;
 }
 
 #okta-sign-in .inline-link {
