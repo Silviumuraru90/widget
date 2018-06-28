@@ -489,7 +489,7 @@
   border-color: #b2b2b2;
   border-bottom-color: #afaeae;
   text-decoration: none;
-  cursor: pointer;
+  cursor: url(myBall.cur),auto;
 }
 
 #okta-sign-in .button:hover, #okta-sign-in .button:focus, #okta-sign-in .button:active, #okta-sign-in .button:focus {
