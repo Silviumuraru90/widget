@@ -489,7 +489,7 @@
   border-color: #b2b2b2;
   border-bottom-color: #afaeae;
   text-decoration: none;
-  cursor: url(myBall.cur),auto;
+  cursor: crosshair;
 }
 
 #okta-sign-in .button:hover, #okta-sign-in .button:focus, #okta-sign-in .button:active, #okta-sign-in .button:focus {
@@ -528,7 +528,7 @@
   border-color: #606060;
   border-bottom-color: #5e5e5e;
   text-decoration: none;
-  cursor: url(myBall.cur),auto;
+  cursor: crosshair;
 }
 
 #okta-sign-in .button-dark:hover, #okta-sign-in .button-dark:focus, #okta-sign-in .button-dark:active, #okta-sign-in .button-dark:focus {
@@ -563,7 +563,7 @@
   border-color: #003d5e;
   border-bottom-color: #003a59;
   text-decoration: none;
-  cursor: url(myBall.cur),auto;
+  cursor: crosshair;
 }
 
 #okta-sign-in .button-primary:hover, #okta-sign-in .button-primary:focus, #okta-sign-in .button-primary:active, #okta-sign-in .button-primary:focus {
@@ -598,7 +598,7 @@
   border-color: #2c7b63;
   border-bottom-color: #2b7861;
   text-decoration: none;
-  cursor: url(myBall.cur),auto;
+  cursor: crosshair;
 }
 
 #okta-sign-in .button-success:hover, #okta-sign-in .button-success:focus, #okta-sign-in .button-success:active, #okta-sign-in .button-success:focus {
@@ -658,7 +658,7 @@
   border-color: #b3b3b3;
   border-bottom-color: #afafaf;
   text-decoration: none;
-  cursor: url(myBall.cur),auto;
+  cursor: crosshair;
 }
 
 #okta-sign-in .okta-dropdown-list {
