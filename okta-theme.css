@@ -8,7 +8,7 @@
 #okta-sign-in h3 {
   /* -- Fonts and Text Colors -- */
   font-weight: bold;
-  color: #AAAAAA;
+  color: #5e5e5e;
 }
 
 #okta-sign-in .okta-sign-in-header {
@@ -19,17 +19,17 @@
 #okta-sign-in .okta-form-subtitle,
 #okta-sign-in .okta-form-label {
   /* -- Fonts and Text Colors -- */
-  color: #777000;
+  color: #777;
 }
 
 #okta-sign-in .link {
   /* -- Fonts and Text Colors: links -- */
-  color: #777000;
+  color: #777;
 }
 
 #okta-sign-in .link:link, #okta-sign-in .link:visited, #okta-sign-in .link:hover, #okta-sign-in .link:active {
   /* -- Fonts and Text Colors: links -- */
-  color: #777002;
+  color: #777;
 }
 
 #okta-sign-in .inline-link {
