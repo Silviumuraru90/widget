@@ -8,12 +8,12 @@
 #okta-sign-in h3 {
   /* -- Fonts and Text Colors -- */
   font-weight: bold;
-  color: #5e5e5e;
+  color: #FFF000;
 }
 
 #okta-sign-in .okta-sign-in-header {
   /* -- Fonts and Text Colors -- */
-  color: #FFF000;
+  color: #5e5e5e;
 }
 
 #okta-sign-in .okta-form-subtitle,
