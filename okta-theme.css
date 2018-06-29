@@ -51,7 +51,7 @@
 #okta-sign-in.main-container {
   /* -- Main and Border Colors -- */
   background-color: #000000;
-  border-color: #ff0000 #ff0000 #ffffff;
+  border-color: #ff0000 #ff0000 #ff0000;
   box-shadow: 0 2px 0 rgba(175, 175, 175, 0.12);
 }
 
@@ -556,8 +556,8 @@
   /* Opera 11.10+ */
   background: -ms-linear-gradient(top, #d6d606 0%, #cccc20 100%);
   /* IE10+ */
-  background: -webkit-linear-gradient(#007dc1, #0073b2);
-  background: linear-gradient(#007dc1, #0073b2);
+  background: -webkit-linear-gradient(#565050, #565050);
+  background: linear-gradient(#565050, #565050);
   border-color: #ffffff;
   border-bottom-color: #ffffff;
   box-shadow: rgba(0, 0, 0, 0.15) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
