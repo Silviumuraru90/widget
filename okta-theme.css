@@ -539,29 +539,29 @@
 #okta-sign-in .button-primary {
   /* -- Buttons' Colors -- */
   color: #fff;
-  background-color: #007dc1;
-  background: -o-linear-gradient(top, #007dc1 0%, #0073b2 100%);
+  background-color: #d6d606;
+  background: -o-linear-gradient(top, #d6d606 0%, #cccc20 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #007dc1 0%, #0073b2 100%);
+  background: -ms-linear-gradient(top, #d6d606 0%, #cccc20 100%);
   /* IE10+ */
   background: -webkit-linear-gradient(#007dc1, #0073b2);
   background: linear-gradient(#007dc1, #0073b2);
-  border-color: #ff0000;
-  border-bottom-color: #ff0000;
+  border-color: #ffffff;
+  border-bottom-color: #ffffff;
   box-shadow: rgba(0, 0, 0, 0.15) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
 }
 
 #okta-sign-in .button-primary:hover, #okta-sign-in .button-primary:focus, #okta-sign-in .button-primary:active, #okta-sign-in .button-primary:focus {
   /* -- Buttons' Colors -- */
-  background-color: #0087d0;
+  background-color: #cccc20;
   background: -o-linear-gradient(top, #0087d0 0%, #007dc1 100%);
   /* Opera 11.10+ */
   background: -ms-linear-gradient(top, #0087d0 0%, #007dc1 100%);
   /* IE10+ */
   background-image: -webkit-linear-gradient(#0087d0, #007dc1);
   background-image: linear-gradient(#0087d0, #007dc1);
-  border-color: #ff0000;
-  border-bottom-color: #ff0000;
+  border-color: #ffffff;
+  border-bottom-color: #ffffff;
   text-decoration: none;
   cursor: crosshair;
 }
