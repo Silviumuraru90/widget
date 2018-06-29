@@ -714,7 +714,7 @@
 
 #okta-sign-in .okta-infobox-error:before {
   /* -- Error Infobox Colors -- */
-  /* background-color: #e34843; */
+  background-color: #e34843;
 }
 
 #okta-sign-in .okta-infobox-error .error-16:before {
