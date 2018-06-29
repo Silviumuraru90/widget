@@ -510,12 +510,12 @@
 }
 
 #okta-sign-in .button:focus {
-  border-color: #ff0000;
+  border-color: #000000;
 }
 
 #okta-sign-in .button-dark {
   /* -- Buttons' Colors -- */
-  color: #fff;
+  color: #ff0000;
   background-color: #929292;
   background: -o-linear-gradient(top, #929292 0%, #8a8a8a 100%);
   /* Opera 11.10+ */
