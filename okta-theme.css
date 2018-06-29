@@ -708,7 +708,7 @@
 
 #okta-sign-in .okta-infobox-error {
   /* -- Error Infobox Colors -- */
-  /* background-color: #fff; */
+  background-color: #fff;
   /* border: 1px solid #ddd; */
 }
 
