@@ -472,8 +472,8 @@
   /* IE10+ */
   background: -webkit-linear-gradient(#fbfbfb, #f8f8f8);
   background: linear-gradient(#fbfbfb, #f8f8f8);
-  border-color: #ff0000;
-  border-bottom-color: #ff0000;
+  border-color: #ffffff;
+  border-bottom-color: #ffffff;
   box-shadow: rgba(0, 0, 0, 0.05) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
 }
 
@@ -486,8 +486,8 @@
   /* IE10+ */
   background-image: -webkit-linear-gradient(yellow, #fcfcfc);
   background-image: linear-gradient(yellow, #fcfcfc);
-  border-color: #ff0000;
-  border-bottom-color: #ff0000;
+  border-color: #ffffff;
+  border-bottom-color: #ffffff;
   text-decoration: none;
   cursor: crosshair;
 }
@@ -498,7 +498,7 @@
 }
 
 #okta-sign-in .button:focus {
-  border-color: #ff0000;
+  border-color: #ffffff;
 }
 
 #okta-sign-in .button-dark {
