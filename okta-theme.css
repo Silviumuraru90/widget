@@ -133,7 +133,7 @@
 #okta-sign-in .factor-icon,
 #okta-sign-in .qrcode-image {
   /* -- Main Background and Border Colors -- */
-  border-color: #ffffff;
+  border-color: #ff0000;
 }
 
 #okta-sign-in .mfa-okta-verify-30,
