@@ -756,19 +756,19 @@
 #okta-sign-in .okta-form-input-field input::-webkit-input-placeholder {
   /* -- Input Fields: placeholder -- */
   font-family: "montserrat", Arial, Helvetica, sans-serif;
-  color: #aaa;
+  color: #fff;
 }
 
 #okta-sign-in .okta-form-input-field input::-moz-placeholder {
   /* -- Input Fields: placeholder -- */
   font-family: "montserrat", Arial, Helvetica, sans-serif;
-  color: #aaa;
+  color: #fff;
 }
 
 #okta-sign-in .okta-form-input-field input:-ms-input-placeholder {
   /* -- Input Fields: placeholder -- */
   font-family: "montserrat", Arial, Helvetica, sans-serif;
-  color: #aaa;
+  color: #fff;
 }
 
 #okta-sign-in .okta-form-input-field input[disabled] {
@@ -786,7 +786,7 @@
 #okta-sign-in .okta-form-input-field placeholder {
   /* -- Input Fields: placeholder -- */
   font-family: "montserrat", Arial, Helvetica, sans-serif;
-  color: #aaa;
+  color: #fff;
 }
 
 #okta-sign-in .input-icon:before,
