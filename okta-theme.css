@@ -722,8 +722,8 @@
 
 #okta-sign-in .okta-form-input-field {
   /* -- Input Fields -- */
-  background-color: #fff;
-  border-color: #ff0000;
+  background-color: #969696;
+  border-color: #ffffff;
 }
 
 #okta-sign-in .okta-form-input-field:hover {
