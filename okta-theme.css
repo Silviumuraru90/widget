@@ -708,13 +708,13 @@
 
 #okta-sign-in .okta-infobox-error {
   /* -- Error Infobox Colors -- */
-  background-color: #fff;
+  background-color: 929292;
   /* border: 1px solid #ddd; */
 }
 
 #okta-sign-in .okta-infobox-error:before {
   /* -- Error Infobox Colors -- */
-  background-color: #e34843;
+  background-color: #0466e5;
 }
 
 #okta-sign-in .okta-infobox-error .error-16:before {
