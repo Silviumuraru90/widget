@@ -106,6 +106,18 @@
 #okta-sign-in .okta-sign-in-header {
   /* -- Main Background and Border Colors -- */
   border-bottom-color: #ff0000;
+
+  /* -- sfarsit - Silviu modifica aici -- */
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+<img src="paris.jpg" alt="Paris">
+  
+  /* -- sfarsit - Silviu modifica aici -- */
 }
 
 #okta-sign-in .okta-sign-in-beacon-border {
