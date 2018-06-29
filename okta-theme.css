@@ -115,7 +115,7 @@
 
 #okta-sign-in .okta-form-divider {
   /* -- Main Background and Border Colors -- */
-  border-bottom-color: #ffffff;
+  border-bottom-color: #ff0000;
 }
 
 #okta-sign-in .factor-icon,
