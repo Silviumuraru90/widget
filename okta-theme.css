@@ -510,7 +510,7 @@
 }
 
 #okta-sign-in .button:focus {
-  border-color: #ffffff;
+  border-color: #ff0000;
 }
 
 #okta-sign-in .button-dark {
