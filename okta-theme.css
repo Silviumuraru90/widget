@@ -566,12 +566,12 @@
 #okta-sign-in .button-primary:hover, #okta-sign-in .button-primary:focus, #okta-sign-in .button-primary:active, #okta-sign-in .button-primary:focus {
   /* -- Buttons' Colors -- */
   background-color: #cccc20;
-  background: -o-linear-gradient(top, #0087d0 0%, #007dc1 100%);
+  background: -o-linear-gradient(top, #d6d606 0%, #cccc20 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #0087d0 0%, #007dc1 100%);
+  background: -ms-linear-gradient(top, #d6d606 0%, #cccc20 100%);
   /* IE10+ */
-  background-image: -webkit-linear-gradient(#0087d0, #007dc1);
-  background-image: linear-gradient(#0087d0, #007dc1);
+  background-image: -webkit-linear-gradient(#d6d606, #cccc20);
+  background-image: linear-gradient(#d6d606, #cccc20);
   border-color: #ffffff;
   border-bottom-color: #ffffff;
   text-decoration: none;
