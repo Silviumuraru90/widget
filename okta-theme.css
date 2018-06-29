@@ -620,7 +620,7 @@
 #okta-sign-in .button.button-primary.link-button-disabled {
   /* -- Buttons' Colors -- */
   color: #fff;
-  background-color: #63b1d7;
+  background-color: #292f33;
   border-color: #ff0000;
   background-image: none;
   box-shadow: none;
@@ -728,11 +728,11 @@
 
 #okta-sign-in .okta-form-input-field:hover {
   /* -- Input Fields -- */
-  border-color: #ff0000;
+  border-color: #63b1d7;
 }
 
 #okta-sign-in .okta-form-input-field.focused-input {
-  border-color: #ff0000;
+  border-color: #63b1d7
 }
 
 #okta-sign-in .okta-form-input-field input {
