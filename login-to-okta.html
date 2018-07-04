@@ -70,7 +70,7 @@ oktaSignIn.session.exists(function (exists) {
       function (res) {
         if (res.status === 'SUCCESS') {
 
-          res.session.setCookieAndRedirect(baseUrl);
+          res.session.setCookieAndRedirect('https://muraru-admin.okta.com/admin/dashboard');
 
         }
       } 
