@@ -106,19 +106,8 @@
 #okta-sign-in .okta-sign-in-header {
   /* -- Main Background and Border Colors -- */
   border-bottom-color: #ff0000;
-
-  /* -- sfarsit - Silviu modifica aici -- */
-  img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
 }
-
-<img src="https://ok4static.oktacdn.com/bc/image/fileStoreRecord?id=fs02s6chp3cyZcj5A1t7" alt="Silviu">
   
-  /* -- sfarsit - Silviu modifica aici -- */
-}
 
 #okta-sign-in .okta-sign-in-beacon-border {
   /* -- Main Background and Border Colors -- */
