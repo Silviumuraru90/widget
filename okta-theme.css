@@ -1,19 +1,19 @@
 #okta-sign-in.main-container {
   /* -- Fonts and Text Colors -- */
   font-family: "montserrat", Arial, Helvetica, sans-serif;
-  color: #0466e5;
+  color: #e97a00;
 }
 
 #okta-sign-in h2,
 #okta-sign-in h3 {
   /* -- Fonts and Text Colors -- */
   font-weight: bold;
-  color: #0466e5;
+  color: #e97a00;
 }
 
 #okta-sign-in .okta-sign-in-header {
   /* -- Fonts and Text Colors -- */
-  color: #0466e5;
+  color: #e97a00;
 }
 
 #okta-sign-in .okta-form-subtitle,
@@ -620,7 +620,7 @@
 
 #okta-sign-in .button.button-primary.link-button-disabled {
   /* -- Buttons' Colors -- */
-  color: #0466e5;
+  color: #e97a00;
   background-color: #292f33;
   border-color: #ff0000;
   background-image: none;
@@ -703,7 +703,7 @@
 
 #okta-sign-in .okta-infobox-error:before {
   /* -- Error Infobox Colors -- */
-  background-color: #0466e5;
+  background-color: #e97a00;
 }
 
 #okta-sign-in .okta-infobox-error .error-16:before {
