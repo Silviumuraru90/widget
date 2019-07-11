@@ -560,7 +560,7 @@
   background: -ms-linear-gradient(top, #e97a00 0%, #e97a00 100%);
   /* IE10+ */
   background-image: -webkit-linear-gradient(#e97a00, #e97a00);
-  background-image: linear-gradient(#000000, #000000);
+  background-image: linear-gradient(#000000, #e97a00);
   border-color: #000000;
   border-bottom-color: #000000;
   text-decoration: none;
