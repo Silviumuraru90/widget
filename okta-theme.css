@@ -555,11 +555,11 @@
 #okta-sign-in .button-primary:hover, #okta-sign-in .button-primary:focus, #okta-sign-in .button-primary:active, #okta-sign-in .button-primary:focus {
   /* -- Buttons' Colors -- */
   background-color: #cccc20;
-  background: -o-linear-gradient(top, #d6d606 0%, #cccc20 100%);
+  background: -o-linear-gradient(top, #e97a00 0%, #cccc20 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #d6d606 0%, #cccc20 100%);
+  background: -ms-linear-gradient(top, #e97a00 0%, #cccc20 100%);
   /* IE10+ */
-  background-image: -webkit-linear-gradient(#d6d606, #cccc20);
+  background-image: -webkit-linear-gradient(#e97a00, #cccc20);
   background-image: linear-gradient(#000000, #cccc20);
   border-color: #000000;
   border-bottom-color: #000000;
