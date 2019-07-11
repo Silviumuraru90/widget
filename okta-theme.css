@@ -49,7 +49,7 @@
 }
 
 #okta-sign-in.main-container {
-  /* -- Main and Border Colors -- */
+  /* -- Main and Colors -- */
   background-color: #000000;
   border-color: #ff0000 #ff0000 #ff0000;
   box-shadow: 0 2px 0 rgba(175, 175, 175, 0.12);
@@ -547,8 +547,8 @@
   /* IE10+ */
   background: -webkit-linear-gradient(#000000, #9b0101);
   background: linear-gradient(#000000, #9b0101);
-  border-color: #ffffff;
-  border-bottom-color: #ffffff;
+  border-color: #000000;
+  border-bottom-color: #000000;
   box-shadow: rgba(0, 0, 0, 0.15) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
 }
 
@@ -561,8 +561,8 @@
   /* IE10+ */
   background-image: -webkit-linear-gradient(#d6d606, #cccc20);
   background-image: linear-gradient(#d6d606, #cccc20);
-  border-color: #ffffff;
-  border-bottom-color: #ffffff;
+  border-color: #000000;
+  border-bottom-color: #000000;
   text-decoration: none;
   cursor: crosshair;
 }
@@ -582,8 +582,8 @@
   /* IE10+ */
   background: -webkit-linear-gradient(#4cbf9c, #42b995);
   background: linear-gradient(#4cbf9c, #42b995);
-  border-color: #ff0000;
-  border-bottom-color: #ff0000;
+  border-color: #000000;
+  border-bottom-color: #000000;
   box-shadow: rgba(0, 0, 0, 0.15) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
 }
 
@@ -596,8 +596,8 @@
   /* IE10+ */
   background-image: -webkit-linear-gradient(#57c3a2, #4cbf9c);
   background-image: linear-gradient(#57c3a2, #4cbf9c);
-  border-color: #ff0000;
-  border-bottom-color: #ff0000;
+  border-color: #000000;
+  border-bottom-color: #000000;
   text-decoration: none;
   cursor: crosshair;
 }
