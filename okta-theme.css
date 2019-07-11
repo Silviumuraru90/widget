@@ -541,9 +541,9 @@
   /* -- Buttons' Colors -- */
   color: #fff;
   background-color: #d6d606;
-  background: -o-linear-gradient(top, #d6d606 0%, #cccc20 100%);
+  background: -o-linear-gradient(top, #000000 0%, #cccc20 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #d6d606 0%, #cccc20 100%);
+  background: -ms-linear-gradient(top, #000000 0%, #cccc20 100%);
   /* IE10+ */
   background: -webkit-linear-gradient(#000000, #9b0101);
   background: linear-gradient(#000000, #9b0101);
