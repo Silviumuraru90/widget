@@ -19,17 +19,17 @@
 #okta-sign-in .okta-form-subtitle,
 #okta-sign-in .okta-form-label {
   /* -- Fonts and Text Colors -- */
-  color: #d6d606;
+  color: #e97a00;
 }
 
 #okta-sign-in .link {
   /* -- Fonts and Text Colors: links -- */
-  color: #d6d606;
+  color: #e97a00;
 }
 
 #okta-sign-in .link:link, #okta-sign-in .link:visited, #okta-sign-in .link:hover, #okta-sign-in .link:active {
   /* -- Fonts and Text Colors: links -- */
-  color: #d6d606;
+  color: #e97a00;
 }
 
 #okta-sign-in .inline-link {
@@ -540,7 +540,7 @@
 #okta-sign-in .button-primary {
   /* -- Buttons' Colors -- */
   color: #fff;
-  background-color: #d6d606;
+  background-color: #000000;
   background: -o-linear-gradient(top, #000000 0%, #cccc20 100%);
   /* Opera 11.10+ */
   background: -ms-linear-gradient(top, #000000 0%, #cccc20 100%);
@@ -560,7 +560,7 @@
   background: -ms-linear-gradient(top, #d6d606 0%, #cccc20 100%);
   /* IE10+ */
   background-image: -webkit-linear-gradient(#d6d606, #cccc20);
-  background-image: linear-gradient(#d6d606, #cccc20);
+  background-image: linear-gradient(#000000, #cccc20);
   border-color: #000000;
   border-bottom-color: #000000;
   text-decoration: none;
