@@ -545,8 +545,8 @@
   /* Opera 11.10+ */
   background: -ms-linear-gradient(top, #d6d606 0%, #cccc20 100%);
   /* IE10+ */
-  background: -webkit-linear-gradient(#565050, #565050);
-  background: linear-gradient(#565050, #565050);
+  background: -webkit-linear-gradient(#000000, #9b0101);
+  background: linear-gradient(#000000, #9b0101);
   border-color: #ffffff;
   border-bottom-color: #ffffff;
   box-shadow: rgba(0, 0, 0, 0.15) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
