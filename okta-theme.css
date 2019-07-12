@@ -467,9 +467,9 @@
   /* -- Buttons' Colors -- */
   color: #5e5e5e;
   background-color: #fbfbfb;
-  background: -o-linear-gradient(top, #fbfbfb 0%, #f8f8f8 100%);
+  background: -o-linear-gradient(top, #000000 0%, #f8f8f8 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #fbfbfb 0%, #f8f8f8 100%);
+  background: -ms-linear-gradient(top, #000000 0%, #f8f8f8 100%);
   /* IE10+ */
   background: -webkit-linear-gradient(#fbfbfb, #f8f8f8);
   background: linear-gradient(#fbfbfb, #f8f8f8);
@@ -506,9 +506,9 @@
   /* -- Buttons' Colors -- */
   color: #ff0000;
   background-color: #929292;
-  background: -o-linear-gradient(top, #929292 0%, #8a8a8a 100%);
+  background: -o-linear-gradient(top, #000000 0%, #8a8a8a 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #929292 0%, #8a8a8a 100%);
+  background: -ms-linear-gradient(top, #000000 0%, #8a8a8a 100%);
   /* IE10+ */
   background: -webkit-linear-gradient(#929292, #8a8a8a);
   background: linear-gradient(#929292, #8a8a8a);
@@ -520,9 +520,9 @@
 #okta-sign-in .button-dark:hover, #okta-sign-in .button-dark:focus, #okta-sign-in .button-dark:active, #okta-sign-in .button-dark:focus {
   /* -- Buttons' Colors -- */
   background-color: #9a9a9a;
-  background: -o-linear-gradient(top, #9a9a9a 0%, #929292 100%);
+  background: -o-linear-gradient(top, #000000 0%, #929292 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #9a9a9a 0%, #929292 100%);
+  background: -ms-linear-gradient(top, #000000 0%, #929292 100%);
   /* IE10+ */
   background-image: -webkit-linear-gradient(#9a9a9a, #929292);
   background-image: linear-gradient(#9a9a9a, #929292);
