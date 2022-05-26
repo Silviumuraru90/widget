@@ -37,7 +37,7 @@
   
   
 
-    var baseUrl = 'https://muraru.okta.com';
+    var baseUrl = 'https://<subdomain>.okta.com';
 
     var oktaSignIn = new OktaSignIn({
     baseUrl: baseUrl,
@@ -61,7 +61,7 @@ oktaSignIn.session.exists(function (exists) {
       function (res) {
         if (res.status === 'SUCCESS') {
 
-          res.session.setCookieAndRedirect('https://muraru-admin.okta.com/admin/dashboard');
+          res.session.setCookieAndRedirect('https://<subdomain>-admin.okta.com/admin/dashboard');
 
         }
       } 
